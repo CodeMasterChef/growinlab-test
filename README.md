@@ -17,7 +17,7 @@ Tạo giao diện website tĩnh như ảnh sau. Toàn bộ hình ảnh trong th�
 
 ## Yêu cầu nâng cao
 
-Danh sách ảnh trên website có thể có dãn theo kích thước màn hình desktop, tablet và mobile:
+Danh sách ảnh trên website có thể co dãn theo kích thước màn hình desktop, tablet và mobile:
 - Trên desktop: 1 hàng sẽ có 3 ảnh 
 - Trên tablet: 1 hàng sẽ có 2 ảnh
 - Trên mobile: 1 hàng có 1 ảnh 
